@@ -1,5 +1,5 @@
 ## Hi there 👋
-Here is my personal website! [!TechnicolorGUO's main page](https://technicolorguo.github.io/)
+Here is my personal website! [TechnicolorGUO's main page](https://technicolorguo.github.io/)
 
 <!--
 **TechnicolorGUO/TechnicolorGUO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
